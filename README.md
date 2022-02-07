@@ -2,8 +2,8 @@
 
 images authors:
 
-Photo by Mitchell Luo from Pexels
-https://www.pexels.com/photo/red-maple-leaf-on-brown-wooden-surface-7674800/
+Photo by Pixabay from Pexels
+https://www.pexels.com/photo/selective-color-photography-of-golden-gate-bridge-california-417054/
 
 Photo by Yelena Odintsova from Pexels
 https://www.pexels.com/photo/back-view-of-a-woman-wearing-a-red-knitted-cap-10262809/
